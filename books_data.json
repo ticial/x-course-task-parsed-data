@@ -10,7 +10,7 @@
     },
     {
         "title": "Clean Code in JavaScript",
-        "image_src": "/Example_of_course_project_2/static/media/imageNotFound.298b98203c3825c61303.png",
+        "image_src": "https://prometheus-platform.github.io/Example_of_course_project_2/static/media/imageNotFound.298b98203c3825c61303.png",
         "descr": "Building robust apps starts with creating clean code. In this book, you'll explore techniques for doing this by learning everything from the basics of JavaScript through to the practices of clean code. You'll write functional, intuitive, and maintainable code while also understanding how your code affects the end user and the wider community. The book starts with popular clean-coding principles such as SOLID, and the Law of Demeter (LoD), along with highlighting the enemies of writing clean code such as cargo culting and over-management. You'll then delve into JavaScript, understanding the more complex aspects of the language. Next, you'll create meaningful abstractions using design patterns, such as the Class Pattern and the Revealing Module Pattern. You'll explore real-world challenges such as DOM reconciliation, state management, dependency management, and security, both within browser and server environments. Later, you'll cover tooling and testing methodologies and the importance of documenting code. Finally, the book will focus on advocacy and good communication for improving code cleanliness within teams or workplaces, along with covering a case study for clean coding. By the end of this book, you'll be well-versed with JavaScript and have learned how to create clean abstractions, test them, and communicate about them via documentation.",
         "author": "James Padolsey",
         "level": "Middle",
@@ -91,7 +91,7 @@
     },
     {
         "title": "Web Workers: Multithreaded Programs in JavaScript",
-        "image_src": "/Example_of_course_project_2/static/media/imageNotFound.298b98203c3825c61303.png",
+        "image_src": "https://prometheus-platform.github.io/Example_of_course_project_2/static/media/imageNotFound.298b98203c3825c61303.png",
         "descr": "Web apps would run much better if heavy calculations could be performed in the background, rather than compete with the user interface. With this book, you’ll learn how to use Web Workers to run computationally intensive JavaScript code in a thread parallel to the UI. If you have an intermediate to advanced understanding of JavaScript— especially event handling and callbacks—you’re ready to tackle Web Workers with the tools in this example-driven guide.",
         "author": "Ido Green",
         "level": "Pro",
